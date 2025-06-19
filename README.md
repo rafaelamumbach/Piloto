@@ -1,3 +1,3 @@
 ---
 #### Piloto! 
-###### Primeiro contato com linguagem de programação C
+###### 🖥️ Curso introdutório de lógica de programação em C.
